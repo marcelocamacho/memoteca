@@ -2,6 +2,10 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.1.
 
+Disponibilizar CSS e Assets do projeto [link do repositório Git ou Drive](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-6/src);
+[Imagens utilizadas para construção do background](https://cdn3.gnarususercontent.com.br/2438-angular-comecando-framework/01/imagens-angular.zip).
+
+
 ## Development server
 
 To start a local development server, run:
