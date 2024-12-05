@@ -22,19 +22,19 @@
       "id": "4",
       "conteudo": "teste",
       "autoria": "minha",
-      "modelo": ""
+      "modelo": "modelo1"
     },
     {
       "id": "5",
-      "conteudo": "teste",
-      "autoria": "minha",
-      "modelo": ""
+      "conteudo": "Melhorando teste",
+      "autoria": "marcelo",
+      "modelo": "modelo2"
     },
     {
       "id": "6",
       "conteudo": "teeee",
       "autoria": "teeette",
-      "modelo": ""
+      "modelo": "modelo1"
     }
   ]
 }
