@@ -1,23 +1,40 @@
 {
   "pensamentos": [
     {
-      "id":1,
+      "id": "1",
       "conteudo": "Comunicação entre componentes",
       "autoria": "Angular",
       "modelo": "modelo3"
     },
     {
-      "id":2,
+      "id": "2",
       "conteudo": "Informações para o componente filho",
       "autoria": "Componente pai",
       "modelo": "modelo1"
     },
     {
-      "id":3,
+      "id": "3",
       "conteudo": "Vou receber os dados pela diretiva @input()",
       "autoria": "Componente filho",
       "modelo": "modelo2"
+    },
+    {
+      "id": "febe",
+      "conteudo": "teste",
+      "autoria": "minha",
+      "modelo": ""
+    },
+    {
+      "id": "7c53",
+      "conteudo": "teste",
+      "autoria": "minha",
+      "modelo": ""
+    },
+    {
+      "id": "dbb1",
+      "conteudo": "teeee",
+      "autoria": "teeette",
+      "modelo": ""
     }
   ]
-
 }

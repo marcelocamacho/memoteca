@@ -61,7 +61,12 @@
   </div>
   <div class="acoes">
     <button class="botao" (click)="criarPensamento()">Salvar</button>
-    <button class="botao" routerLink="/">Cancelar</button>
+    <button class="botao"
+       routerLink="/"
+        (click)="voltarParaHome()"
+      >Cancelar</button>
+   <!-- Pode-se usar qualquer uma dessas opções para redirecionar para  a home -->
+
   </div>
 </form>
 
